@@ -36,7 +36,6 @@ namespace CleanArchitectureAPI
             //services.AddMvc().AddFluentValidation();
             services.AddValidatorsFromAssembly(typeof(Startup).Assembly);
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
-            //services.AddTransient<IValidator<GetEmployeeQuery>, GetEmployeeQueryValidator>();
             //services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
         }
 
