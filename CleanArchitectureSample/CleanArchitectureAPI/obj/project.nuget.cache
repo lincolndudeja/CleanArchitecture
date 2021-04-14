@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "5Bnh3B4ftxIJz0KhnHdtjxtiPF9Y6nSxtajneWWaF8c7O0SBKRXOvwC1UYe2iZxJ1uRb35+HR3Yeeazv0P8pnA==",
+  "dgSpecHash": "Rz6OxyyBseqQEonlUDThgBsi1rtmbgii/lzRMYpPrd7y8zHu5EHTEk5PTwyx2yCnLQDu80hWzOtFMtxPj2bmPg==",
   "success": true,
   "projectFilePath": "C:\\Test\\CleanArchitecture\\CleanArchitecture\\CleanArchitectureSample\\CleanArchitectureAPI\\CleanArchitectureAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LDU052\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\LDU052\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\LDU052\\.nuget\\packages\\fluentvalidation\\10.0.2\\fluentvalidation.10.0.2.nupkg.sha512",
+    "C:\\Users\\LDU052\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.0.2\\fluentvalidation.aspnetcore.10.0.2.nupkg.sha512",
+    "C:\\Users\\LDU052\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.0.2\\fluentvalidation.dependencyinjectionextensions.10.0.2.nupkg.sha512",
+    "C:\\Users\\LDU052\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\LDU052\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\LDU052\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\LDU052\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

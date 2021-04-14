@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{B3F64EF1-5C97-4399-84E5-A793BD593801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureAPI", "CleanArchitectureAPI\CleanArchitectureAPI.csproj", "{2BE87E98-A63B-4B2D-B2AD-040FE95EDBA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureAPI", "CleanArchitectureAPI\CleanArchitectureAPI.csproj", "{2BE87E98-A63B-4B2D-B2AD-040FE95EDBA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
