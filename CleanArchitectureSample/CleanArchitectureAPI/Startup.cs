@@ -36,7 +36,6 @@ namespace CleanArchitectureAPI
             //services.AddMvc().AddFluentValidation();
             services.AddValidatorsFromAssembly(typeof(Startup).Assembly);
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
-            //services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
